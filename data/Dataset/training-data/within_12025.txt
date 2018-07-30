@@ -1,0 +1,17 @@
+"Nobody would seriously consider paying that kind of multiple for a software company with shrinking new license sales," Phillips said in the letter. BEA responded by saying its board could not endorse a proposal that "significantly undervalues" the company, and indicated it was willing to let the bid expire. Talk of a BEA buyout began in August when activist investor Carl Icahn said he had begun acquiring shares in the business software maker and called on its board to put the company up for sale.
+
+-----
+
+Despite the apparent stalemate, analysts say they still think a deal can eventually be reached since BEA's software, called middleware, connects computer systems and can be added to Oracle's data management programs to help it compete against SAP AG ( SAPG.DE ). "My guess is...that Oracle will win," said Murray Beach, president of technology-focused investment bank Boston Corporate Finance.
+
+-----
+
+Shares of BEA had risen to as high as $18.94 after Oracle made its bid, sparking investor hopes that other companies may put in an offer for the company. Beach said the logical buyer for Oracle would be Hewlett-Packard Co ( HPQ.N ). "They clearly have a good relationship, they have a cross partnership and have worked together a long time," he said.
+
+-----
+
+"Eventually they'll wear them down. I know there's a deadline but deadlines have a tendency to move." Beach thought the two parties would negotiate and Oracle would probably have to increase its price, but it would "probably not be the price BEA is saying out loud." Oracle said in a letter to BEA's board on Thursday that $21 per share represented an 80 percent premium to BEA shares before activist shareholders started pushing for a company sale, and was nearly 11 times BEA's revenue from software maintenance services in the last 12 months.
+
+-----
+
+NEW YORK  (Reuters) - BEA Systems Inc BEAS.O shares fell 6.5 percent on Friday to trade below Oracle Corp's ORCL.O bid for the first time since it was made, as the deadline for the offer loomed with no signs of an agreement.Oracle, the world's third-largest software maker with a market value of around $100 billion, on Thursday rejected BEA's asking price of $21 a share, or a total of $8.2 billion, saying that it was "impossibly high." Oracle President Charles Phillips said the company was standing by its $17-per-share bid, which will expire at 5 p.m. California time on Sunday, "at which time Oracle will move on and evaluate other potential acquisitions." Shares of BEA were down $1.15 at $16.38 in afternoon trading, dipping below Oracle's price for the first time since the $6.7 billion bid was announced on October 12.

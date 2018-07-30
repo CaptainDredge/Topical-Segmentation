@@ -1,0 +1,17 @@
+End-05 and end-06comparisons are for the 14-day repo rate (see note 4 above) CENTRAL BANK OF PHILIPPINES: Overnight borrowing rate CENTRAL BANK OF CHINA (TAIWAN): Discount rate BANK INDONESIA: Bank Indonesia (BI) reference rate RESERVE BANK OF INDIA: Reverse repo rate PEOPLE'S BANK OF CHINA: One-year yuan lending rate MIDDLE EAST/AFRICA: SOUTH AFRICAN RESERVE BANK: Repurchase rate BANK OF ISRAEL: Short-term lending rate CENTRAL BANK OF TURKEY: Overnight borrowing
+
+-----
+
+This is a monthlyaverage rate, rounded to one decimal. 4. On January 17, 2007 the Bank of Thailand set a new policy rate based on the1-day repurchase rate BOT15, instead of the 14-day rate. The rate was set at4.75 percent, compared with the market close that day of 4.9375 percent (Fordetails please double click on <ID:nBKK140398>).
+
+-----
+
+Slovenia has been removed from the table as it joined the euro zone on Jan1, 2007. 1. On March 9, 2006 the BOJ said it would no longer set a target for theamount of surplus funds in the money market, ending its "quantitative easing"policy, and adopted a more conventional tactic of guiding the unsecuredovernight call rate.
+
+-----
+
+On July 14, 2006 it raised interest rates for the firsttime in six years. 2. The Swiss National Bank targets a range for the three-month Swiss francLIBOR rate. It currently targets roughly the midpoint of that range. 3. The Bank of Mexico manages reserve money through weekly open marketoperations. The benchmark is the 28-day treasury bills, Cetes.
+
+-----
+
+Comparisons in the table forthe end of 2005 and 2006 show the 14-day rate.central bank): GROUP OF SEVEN CENTRAL BANKS: U.S FEDERAL RESERVE = federal funds rate BANK OF JAPAN = overnight call rate EUROPEAN CENTRAL BANK = refi rate BANK OF ENGLAND = bank rate BANK OF CANADA = overnight funding rate MAJOR CENTRAL BANKS: SWISS NATIONAL BANK = 3-month Swiss Libor RESERVE BANK OF AUSTRALIA = cash rate RESERVE BANK OF NEW ZEALAND = cash rate SWEDISH RIKSBANK = repo rate  NORGES BANK = deposit rate DENMARKS NATIONALBANK = 2-week cd rate CENTRAL AND EASTERN EUROPE: NATIONAL BANK OF POLAND (NBP): 28-day intervention rate NATIONAL BANK OF HUNGARY: (NBH) 2-week deposit rate CZECH NATIONAL BANK (CNB): 2-week repo rate NATIONAL BANK OF SLOVAKIA (NBS): 2-week limit repo rate CENTRAL BANK OF RUSSIAN FEDERATION (CBR): refinancing rate  NATIONAL BANK OF UKRAINE (NBU): discount rate NATIONAL BANK OF ROMANIA (NBR): monetary policy rateLATIN AMERICA: CENTRAL BANK OF BRASIL (BCB): Selic rate CENTRAL BANK OF CHILE (BCC): Discount rate BANK OF MEXICO: 28 day Cetes rate   ASIA: BANK OF KOREA: Overnight call rate BANK OF THAILAND: 1-day repurchase (repo) rate.

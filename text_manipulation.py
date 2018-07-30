@@ -18,6 +18,7 @@ def get_punkt():
         return sentence_tokenizer
 
     try:
+        nltk.download('punkt')
         tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
     except exceptions.LookupError:
         nltk.download('punkt')

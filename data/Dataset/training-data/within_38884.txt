@@ -1,0 +1,17 @@
+Dealers would be required to register with the government; --Dealers would be subject to capital, initial margining, antifraud, anti-manipulation, recordkeeping and reporting rules. They must follow any CFTC-set position limits; --Recordkeeping and reporting, including a complete audit trail, would be required for all OTC derivatives positions and transactions; --Deals in "customized" derivatives, not subject to clearing, must be reported to a regulated trade repository; --Aggregate information on positions and trades available to the public.
+
+-----
+
+Regulator could "use emergency authority to compel a clearinghouse to take actions to address financial risks."; --CFTC retail fraud authority over "rolling spot" contracts would expand from foreign exchange to all commodities; --Foreign exchanges must adopt position limits and reporting requirements that match U.S. rules in order to have access to customers in the United States.
+
+-----
+
+Timely reporting of trades and prompt dissemination of prices and other trade data to the public required. Regulatory authority --Commodity Exchange Act would be amended to define OTC derivatives and give CFTC authority to regulate them; --Congress "should explicitly require regulators to promulgate capital requirements for all derivatives dealers," said administration, including "prudent and conservative capital requirements and initial margin requirements."; --CFTC could impose recordkeeping and reporting requirements; police exchanges and electronic trading systems; recordkeeping, transparency requirements to cover all swaps; --CFTC could impose position limits, including aggregate limits across markets, on OTC derivatives that perform or affect a significant price-discovery function on regulated markets; --Systemic regulator proposed would ensure "consistent and robust standards" for clearing, settlement and payment.
+
+-----
+
+WASHINGTON  (Reuters) - Over-the-counter derivatives markets and the dealers who trade them would be subject to U.S. regulation under a proposal by the Obama administration.The package proposes one set of rules for dealers while another set would govern the markets. Here is a summary: Regulating derivatives dealers --All firms and all dealers would be covered, regardless of type of firm, method of trading or the derivative or swap involved.
+
+-----
+
+Regulating derivatives markets --OTC derivatives must go through clearinghouses whenever possible. Clearinghouses required to set and maintain robust margin standards and other needed risk controls. Regulators will monitor trades to make sure customized derivatives are not used as a way to avoid central clearing; --OTC derivatives must move onto regulated exchanges or regulated transparent electronic trading systems whenever possible.

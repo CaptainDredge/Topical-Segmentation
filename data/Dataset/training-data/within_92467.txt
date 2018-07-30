@@ -1,0 +1,17 @@
+But the SEC said the proposed orders would differ from Nasdaq's traditional orders in that they would be processed through the third-party provided application and then routed to Nasdaq or another trading venue. The regulator said Nasdaq did not show, as required under the Securities Exchange Act, that the rule change would not impose "an unnecessary or inappropriate burden on competition." RISK CONTROLS When the SEC began proceedings on August 14 to determine whether to approve the algorithmic trading services, it also stressed that the application of appropriate risk controls under its Market Access rule "is critically important to maintaining a robust market infrastructure." The regulator questioned whether the orders, which would be sent through the third-party application, would be "subject to adequate pre-trade risk checks." It said Nasdaq's proposal did not indicate how or whether pre-trade controls would be applied to the orders.
+
+-----
+
+The SEC also highlighted other concerns, including the need for appropriate risk controls for the algorithmic orders, which electronically execute large stock orders over a specific time for specific securities and are generally aimed at institutional investors. A spokesman for Nasdaq declined to comment on the matter. On May 1, Nasdaq proposed a rule change to the SEC that would allow the exchange to offer three algorithmic order types, aimed at achieving the performance of specific benchmarks: volume weighed average price, time weighted average price and percent of volume.
+
+-----
+
+Once placed, Nasdaq would direct the orders to an application, operated by the exchange but licensed from a third-party provider, to process the benchmark orders. The orders would then be executed within Nasdaq's system. Nasdaq said the orders would be considered a functional offering of the Nasdaq stock market and subject to Nasdaq's obligations and responsibilities as a self-regulatory organization.
+
+-----
+
+(Reuters) - Nasdaq OMX Group Inc's proposal to offer algorithmic trading services that would compete against similar services offered by broker-dealers has been denied by a U.S. regulator.The exchange operator did not prove it would not have a competitive advantage over broker-dealers offering similar products if its proposal was granted, the U.S. Securities and Exchange Commission said in a filing dated January 11.
+
+-----
+
+COMPETITION The Securities Industry and Financial Markets Association (SIFMA) opposed Nasdaq's proposal, saying the exchange should not be able to claim regulatory immunity from liability for the benchmark orders because the same immunity is not available to broker-dealers that offer identical products. The proposal could create an inappropriate advantage to Nasdaq over broker-dealers, SIFMA said.

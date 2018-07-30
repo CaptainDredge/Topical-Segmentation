@@ -1,8 +1,8 @@
 import json
 
 jsondata = {
-    "word2vecfile": "/home/omri/datasets/word2vec/GoogleNews-vectors-negative300.bin",
-    "choidataset": "/home/omri/code/text-segmentation-2017/data/choi",
+    "word2vecfile": "/home/ubuntu/text-segmentation/data/word2vec/GoogleNews-vectors-negative300.bin",
+    "choidataset": "/home/ubuntu/text-segmentation/data/Dataset",
     "wikidataset": "/home/omri/datasets/wikipedia/process_dump_r",
 }
 

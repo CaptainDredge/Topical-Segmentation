@@ -1,0 +1,17 @@
+"Again it comes back to how it is managed. It depends on how high a profile the CEO put on this," James said. Boards are generally concerned with credit- and market risk, said Baruch's Donefer, saying it would be unusual for a board to have a risk management process that specifically dealt with technology.
+
+-----
+
+Knight's chairman and chief executive officer, Thomas Joyce, told Congress in June that Knight Capital deployed some of the world's most sophisticated trading technology to execute client orders. He told lawmakers that trade execution was better than ever. "Remember that during the course of the last few years, with the exception of two notable exceptions, the equity markets worked flawlessly," Joyce told Congress, referring to the flash crash and the Facebook IPO.
+
+-----
+
+Top company executives with responsibility for risk management, according to the proxy statement, include Chief Financial Officer Steven Bisgay, who was charged with "enhancement of the company's overall risk management infrastructure." Management, the statement said, had a process in place that it used to "identify, analyze, manage and report" on all significant risks facing the company." It went on to list risks as enterprise, financial, operational, legal, regulatory and strategic.
+
+-----
+
+Knight does not list a risk committee by name. A spokesman for Knight Capital asked for questions regarding the company's risk management policies to be submitted by email but did not immediately respond. When trying to limit technology risk, it does not matter how often a board meets if the firm fails to conduct enough monitoring and testing of its technology systems, said Alan James, professor at Pace University's Lubin School of Business.
+
+-----
+
+Knight Capital, which acts as a market maker for buyers and sellers of securities, said Wednesday's technology breakdown was caused by the installation of new trading software, which led to the company sending out numerous erroneous orders in New York Stock Exchange-listed stock into the market. SYSTEMS FAILURES SEEN AS THREAT Knight acknowledged the seriousness of potential technology risks in its 2011 annual report, referring to "capacity constraints, systems failures and delays" as risks that could ultimately result in "transactions not being processed as quickly as our clients desire, decreased levels of client service and client satisfaction, and harm to our reputation." "If any of these events were to occur, we could suffer substantial financial losses, a loss of clients, or a reduction in the growth of our client base, increased operating expenses, litigation or other client claimed regulatory sanctions or additional regulatory burdens," it said.

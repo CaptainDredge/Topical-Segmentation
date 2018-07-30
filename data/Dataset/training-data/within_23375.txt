@@ -1,0 +1,17 @@
+The VIX rose 10 percent to 23.44, ending the trading session above its 200-day moving average of 23.20. "Today's sell-off came amid mixed earnings news and uninspiring economic data early," said option strategist Frederic Ruffy at Web information site WhatsTrading.com. The sell-off, led by banks and brokerages, began in earnest after data from the National Association of Realtors showed June sales of existing homes hit a 10-year low.
+
+-----
+
+Put activity was busy in the Financial Select Sector SPDR Fund, which holds the financial-related components from the S&P index, as more than 2 puts traded for every call, Trade Alert data showed. XLF shares fell 6.72 percent to $20.95. A put conveys the right to sell the fund's shares at a given price and time while a call gives an investor the right to buy the fund at a preset price within a set time period.
+
+-----
+
+The VIX, which tracks projected stock market volatility embedded in near-term Standard & Poor's 500 index options, typically moves inversely to the S&P benchmark. It often rises reflecting investors' angst and their inclination to buy options to manage stock market risk. "Housing and credit concerns knocked the market lower today and confirmed that the short-term bounce in stocks could not be sustained," said Scott Fullman, director of derivative investment strategy at broker-dealer WJB Capital Group.
+
+-----
+
+Interactive Brokers Group analyst Rebecca Engmann Darst noticed some unusual call activity in the SKF. It looked like a trader entered a 2,000-lot call spread in the January contract between strikes $130 and $200 in a trade that suggested the view that financial stocks would continue to decline through the fall and that the July 15 high of $204.27 will remain into 2009, Darst said.
+
+-----
+
+In the options market, investors often turn to calls in the fund if they are bearish on the financial sector and anticipate its shares to go higher. According to option analytics firm Trade Alert, about 39,000 calls changed hands vs. 11,000 puts, suggesting some traders may be using the fund to protect their positions in the financial space, an analyst said.

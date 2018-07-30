@@ -14,7 +14,7 @@ logger = utils.setup_logger(__name__, 'train.log')
 
 
 def get_choi_files(path):
-    all_objects = Path(path).glob('**/*.ref')
+    all_objects = Path(path).glob('**/*.txt')
     files = [str(p) for p in all_objects if p.is_file()]
     return files
 
@@ -54,7 +54,7 @@ def clean_paragraph(paragraph):
     return cleaned_paragraph
 
 def read_choi_file(path, word2vec, train, return_w2v_tensors = True,manifesto=False):
-    seperator = '========' if manifesto else '=========='
+    seperator = '-----' if manifesto else '-----'
     with Path(path).open('r') as f:
         raw_text = f.read()
     paragraphs = [clean_paragraph(p) for p in raw_text.strip().split(seperator)
@@ -70,7 +70,8 @@ def read_choi_file(path, word2vec, train, return_w2v_tensors = True,manifesto=Fa
         if manifesto:
             sentences = split_sentences(paragraph,0)
         else:
-            sentences = [s for s in paragraph.split('\n') if len(s.split()) > 0]
+            file_id = str(path).split('/')[-1:][0]
+            sentences = split_sentences(paragraph,file_id)
 
         if sentences:
             sentences_count =0
@@ -91,6 +92,8 @@ def read_choi_file(path, word2vec, train, return_w2v_tensors = True,manifesto=Fa
     return new_text, targets, path
 
 
+
+
 # Returns a list of batch_size that contains a list of sentences, where each word is encoded using word2vec.
 class ChoiDataset(Dataset):
     def __init__(self, root, word2vec, train=False, folder=False,manifesto=False, folders_paths = None):
@@ -98,11 +101,11 @@ class ChoiDataset(Dataset):
         if folders_paths is not None:
             self.textfiles = []
             for f in folders_paths:
-                self.textfiles.extend(list(f.glob('*.ref')))
+                self.textfiles.extend(list(f.glob('*.txt')))
         elif (folder):
             self.textfiles = get_choi_files(root)
         else:
-            self.textfiles = list(Path(root).glob('**/*.ref'))
+            self.textfiles = list(Path(root).glob('**/*.txt'))
 
         if len(self.textfiles) == 0:
             raise RuntimeError('Found 0 images in subfolders of: {}'.format(root))

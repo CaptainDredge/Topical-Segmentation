@@ -1,0 +1,17 @@
+Clearinghouses, however, would require posting of liquid collateral such as cash or short-term government debt, which could come at a much higher cost. (Additional reporting by  Charles Abbott , with Karen Brettell and  Jonathan Spicer  in New York, and  Huw Jones  in London; Editing by Andrew Hay)
+
+-----
+
+Companies use OTC derivatives to customize hedges to their specific exposures when exchange-traded products, which are more standardized, do not reflect their actual risks. Collateral, also known as margin, is posted against these contracts to protect against risk of a counterparty failing. In many cases, companies secure derivative trades with property or other assets.
+
+-----
+
+The Senate has not yet taken up the issue, on which debate is likely to continue for several months. In addition to exempting some end users from compulsory clearing, the Frank bill would empower regulators to ban swaps deemed "abusive" or bad for market stability and participants. AGGREGATE DATA TARGETED Further, it would require the CFTC to make public aggregate data on swap trading volumes and positions.
+
+-----
+
+"This is the best job they've done at defining some of the terms we've been talking about since summer," said Kevin McPartland, senior analyst at TABB Group in New York. He said lawmakers want to minimize systemic risks to the economy from OTC derivatives, but avoid imposing unneeded costs on U.S. corporations that are not central to those risks.
+
+-----
+
+"That's the crux of all of this, trying to prevent and find systemic risk before it happens," McPartland said. Requiring central clearing of all derivatives market contracts could tie up valuable capital and constrain the liquidity of companies that use the contracts to hedge their businesses, derivatives users and dealers have warned.

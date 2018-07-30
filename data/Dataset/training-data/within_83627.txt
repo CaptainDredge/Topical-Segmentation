@@ -1,0 +1,17 @@
+Within that context, it becomes somewhat easier to see why Peregrine's founder and chief Russell Wasendorf Sr., who cast himself as a leading figure in the futures world until last week, said in his confession he "hated" the industry. Beneath the trappings of success, including a private jet and an $18 million headquarters, was a two-decade fraud in which he used over $200 million of customer funds to stave off collapse.
+
+-----
+
+Some turned to speculating with their own money, trade finance or market research to bolster earnings; others have been sold, further depleting the ranks of an industry which saw market share halved in 10 years. Two, MF Global and Peregrine, allegedly looted their customers' money to try to stay afloat. "The root cause of issues at both firms was the lack of profitability," says Gary DeWaal, general counsel of broker Newedge, which is owned by two French banks and is one of the world's largest futures brokerages.
+
+-----
+
+It began publishing a breakdown of where it keeps customer funds on a monthly basis after MF Global; now it does so daily. "Everybody gets tarred with the brush," says Les Rosenthal, managing partner at RCG. The industry debate over better ways to protect customer money has intensified. The CME Group last week openly questioned whether brokers should be allowed to continue being allowed to hold client collateral; some have suggested a third-party depository could work.
+
+-----
+
+A second issue looms as well: the move to "legally separate, operationally commingled" collateral. In futures trading, all client money at a given broker goes into a single pot, so if one client goes under and pulls the broker with it, other clients may have to share in losses. Under the new rules, which currently apply only to swaps, brokers will still put all the money in one pot, but will need to keep the assets of each customer legally siloed from the assets of every other customer, so that if one client fails, the other customers will still be able to get all their money out, leaving other brokers to step in if the one with the defaulting customer goes under.
+
+-----
+
+Revenues at INTL FCStone Inc ( INTL.O ) have quadrupled over the past four years through a series of modest acquisitions, including MF Global's metals trading division, but it has struggled to remain profitable in recent months. Second-quarter net income fell 84 percent to just $2.4 million. HARD TO BUILD, EASY TO BREAK Rosenthal Collins Group (RCG), the second-largest independent brokerage firm, was among the brokers who moved quickly last week to reassure customers of the safety of their collateral.

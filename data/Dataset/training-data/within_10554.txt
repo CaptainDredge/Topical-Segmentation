@@ -1,0 +1,17 @@
+On 23 March 2004 the European Commission adopted a decision finding that Microsoft had infringed Article 82 of the EC Treaty by abusing its dominant position by engaging in two separate types of conduct. The Commission also imposed a fine of more than 497 million euros on Microsoft. The first type of conduct found to constitute an abuse consisted in Microsoft's refusal to supply its competitors with 'interoperability information' and to authorize them to use that information to develop and distribute products competing with its own products on the work group server operating system market, between October 1998 and the date of adoption of the decision.
+
+-----
+
+The Court also considers that the aim pursued by the Commission is to remove the obstacle for Microsoft's competitors represented by the insufficient degree of interoperability with the Windows domain architecture, in order to enable those competitors to offer work group server operating systems differing from Microsoft's on important parameters. In that connection, the Court rejects Microsoft's claims that the degree of interoperability required by the Commission is intended in reality to enable competing work group server operating systems to function in every respect like a Windows system and, accordingly, to enable Microsoft's competitors to clone or reproduce its products.
+
+-----
+
+The Court then observes that the Commission defined interoperability information as a detailed technical description of certain rules of interconnection and interaction that can be used within Windows work group networks to deliver work group services. The Court notes that the Commission emphasized that Microsoft's abusive refusal to supply concerned only the specifications of certain protocols and not the source code and that it was not its intention to order Microsoft to disclose its source code to its competitors.
+
+-----
+
+LUXEMBOURG  (Reuters) - An EU court upheld most of a landmark 2004 European Commission antitrust decision against Microsoft ( MSFT.O ) on Monday in a big victory for the European Union competition regulator against the U.S. software giant.Following is a statement released by the Court of First Instance: THE COURT OF FIRST INSTANCE ESSENTIALLY UPHOLDS THE  COMMISSION'S DECISION FINDING THAT MICROSOFT ABUSED ITS DOMINANT  POSITION However, the Court has annulled certain parts of the decision relating to the appointment of a monitoring trustee, which have no legal basis in Community law.
+
+-----
+
+The monitoring trustee's primary responsibility would be to issue opinions, upon application by a third party or by the Commission, or on his own motion, on whether Microsoft was complying with the decision and on any issue that might be of interest with respect to the enforcement of the decision. He was to have access to Microsoft's assistance, information, documents, premises and employees and to the source code of the relevant Microsoft products.

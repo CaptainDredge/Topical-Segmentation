@@ -1,0 +1,17 @@
+It will also begin to offer a free download of a software called Search Server 2008 Express that allows companies to search files and documents inside their network. The product will rival Google Inc's Search Appliance. Microsoft plans to unveil the news during a speech on Monday by Chairman Bill Gates at a conference for SharePoint, one of its fastest-growing applications, which allows workers to share documents and plan projects on secure Web sites.
+
+-----
+
+SEATTLE  (Reuters) - Microsoft Corp, faced with Web rivals looking to poach its business customers, said on Sunday it plans to broaden the availability of its online services for e-mail and collaboration software.Last year, Microsoft started subscription-based online services to run its Exchange corporate e-mail program and SharePoint collaboration software on Microsoft's own computer systems as an alternative to customers buying their own hardware to run licensed software.
+
+-----
+
+Microsoft has invested billions of dollars to build enormous data centers packed with thousands of powerful computer servers and storage systems to offer services to both regular consumers and customers in large organizations. In order not to jeopardize corporate agreements that underpin many of its businesses, Microsoft said any company who wants to switch over to its services will be credited for the remaining portion of an existing contract, which can be applied toward monthly subscriptions.
+
+-----
+
+It also lets smaller companies get applications normally reserved for large organizations. "This is a market that is really starting to pick up. I believe it is going to going to get very large," said Karen Hobert, an analyst at Burton Group. Google, Salesforce.com Inc and a host of start-ups are aggressively targeting Microsoft's traditional business customers with Web applications that can be less expensive and easier to install on computers and run.
+
+-----
+
+Microsoft initially limited those services to companies with more than 5,000 workers, but the company said it will now offer the service to businesses of all sizes in the second half of 2008, after a testing period. The company did not disclose how much it will charge customers for the services.

@@ -1,0 +1,17 @@
+High-frequency trading firms -- such as banks, hedge funds, and independent proprietary shops -- use computers and complex algorithms to make lightning-quick trades in small amounts of stock, intending to capitalize on small price variations. More than 60 percent of all U.S. equity volume is estimated to involve high-frequency traders. Any curbs on high-frequency trading could drive down trading volumes, boost volatility, and hit the revenue of financial firms and exchange operators.
+
+-----
+
+Kaufman said liquidity rebates, flash orders, co-location and direct market access were questionable practices, and called for a regulatory review that would examine each separately. Exchanges and other trading venues such as dark pools, which execute orders anonymously, rebate traders who provide liquidity while charging those who take liquidity. Some exchanges also "flash" orders to a specific group of participants before rerouting them to the wider market.
+
+-----
+
+NEW YORK  (Reuters) - Senator Ted Kaufman on Monday asked U.S. regulators to undertake a comprehensive review of several "questionable" developments in the structure of capital markets, the latest lawmaker to weigh in on so-called dark pools, flashes, and high-frequency trading.In a letter to Securities and Exchange Chairman Mary Schapiro, the Delaware Democrat said rule changes in recent decades had the effect of unintentionally favoring the most sophisticated investors at the expense of others.
+
+-----
+
+Kaufman, a long-time adviser to Vice President Joe Biden, added that "increased liquidity" -- the availability of bids and offers for stocks -- is now valued more than "fair execution of trades for all investors." The letter comes as the SEC decides whether to clamp down on some order types and trading venues, and follows a letter from New York Democratic Senator Charles Schumer late last month warning that unfair markets are harming investor confidence.
+
+-----
+
+Co-location is when trading firms place their computers next to the exchanges' trading engines, to shave valuable microseconds from execution times. Direct market access, or "sponsored access," is when registered brokers allow high-frequency firms to trade, unfettered, under their name. Schapiro said in June that the SEC was giving "a serious look" at taking action on dark pools, and said earlier this month it was crafting a plan to "eliminate the inequity that results from flash orders." SEC spokesman John Nester declined to comment on Kaufman's letter but said, "We share the Senator's interest in market structure issues." Kaufman also criticized the SEC for allowing Nasdaq OMX's Nasdaq Stock Market and at BATS Exchange to begin offering flash orders in May.

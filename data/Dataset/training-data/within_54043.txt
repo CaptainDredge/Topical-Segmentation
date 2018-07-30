@@ -1,0 +1,13 @@
+"Internet censorship is really a trade barrier, and is operating that way for U.S. companies that are trying to do business abroad," Drummond said at a public meeting with U.S. Trade Representative Ron Kirk and other corporate executives at Google's headquarters in California's Silicon Valley. "If this were happening with physical trade and manufacturing goods, we'd all be saying this violates trade agreements pretty fundamentally." Google's Drummond said a large and growing number of countries are now censoring the Internet in a variety of ways, for economic as well as political reasons.
+
+-----
+
+SEATTLE  (Reuters) - Google Inc's legal chief called for pressure on governments that censor the Internet, such as China and Turkey, arguing that their blocking access to websites not only violates human rights but unfairly restrains U.S. trade.The remarks, by Google Chief Legal Officer David Drummond, mark a new economic theme in the Web company's campaign for an unrestricted Internet, and may inflame a touchy relationship with China, after the company threatened to stop censoring online searches there earlier this year.
+
+-----
+
+The incident exacerbated tensions between Washington and Beijing, which were also sparring over China's currency and U.S. arms sales to Taiwan and Tibet. U.S. Secretary of State Hillary Clinton called for worldwide Internet freedoms and singled out China following Google's announcement. Google began to reroute Web surfers visiting its China website to a separate uncensored site in Hong Kong, but eventually tweaked the set-up so that users in mainland China had to actively click on a link in order to go to the uncensored Hong Kong search engine site.
+
+-----
+
+As an example, he said, Google's YouTube online video service was blocked in more than 20 countries and has been banned in Turkey for two years. "In our view at Google it's high time for us to start really sinking our teeth into this one," said Drummond. "We have great opportunities now with pending trade agreements to start putting some pressure on countries to recognize that Internet freedom not only is a core value -- that we should be holding them to account from a human rights standpoint -- but also that if you want to be part of the community of free trade, you are going to have to find a way to allow the Internet to be open." Google has had a rocky relationship with Chinese authorities since it announced in January that it would no longer censor search results in mainland China and accused Chinese hackers of orchestrating a sophisticated cyber attack on Google and other major U.S. companies.

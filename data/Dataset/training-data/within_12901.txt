@@ -1,0 +1,17 @@
+Stifel Nicolaus analyst Blair Levin said Google is likely to apply to participate in the FCC auction and pay a required deposit later in December. Such moves would not guarantee it will submit a bid, but Levin thinks the company will do so. Even if Google does bid, Levin said, it may not be designed to actually win the auction, but rather to make sure the FCC's minimum is met and the open-access provision stays in place.
+
+-----
+
+WASHINGTON/SAN FRANCISCO  (Reuters) - Google Inc is considering bidding alone on coveted airwaves to launch a U.S. wireless network, as a deadline nears to declare bidding plans, sources familiar with the situation said.One source underscored that Google had made no decision as of Friday on whether it would bid with partners or on its own in the auction of 700-megahertz spectrum due to begin January 24.
+
+-----
+
+Under the auction terms, if no one meets the $4.6 billion minimum bid, the auction for the open-access portion of the spectrum would be rerun without the open-access conditions. One strategy Google is considering is to bid on a chunk of airwaves known as "D Block" that would be shared with public safety providers, as well as the more flexible, open-access piece of "C Block" spectrum.
+
+-----
+
+Bidding could pit Google against top wireless carriers AT&T Inc and Verizon Wireless, owned jointly by Verizon Communications Inc and Vodafone Group Plc. Going it alone at the government auction of airwaves would not rule out later signing up partners if Google were to win the necessary spectrum to create a network, the source said.
+
+-----
+
+That is certainly the driving factor in our thinking about bidding on the spectrum." The 700-MHz band airwaves, which are being returned by broadcasters as they move from analog to digital signals early in 2009, can go long distances and penetrate thick walls. The auction is seen as a last chance for a new wireless player.

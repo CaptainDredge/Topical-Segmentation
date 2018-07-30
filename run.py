@@ -215,9 +215,9 @@ def main(args):
 
         else:
             dataset_path = utils.config['choidataset']
-            train_dataset = ChoiDataset(dataset_path, word2vec)
-            dev_dataset = ChoiDataset(dataset_path, word2vec)
-            test_dataset = ChoiDataset(dataset_path, word2vec)
+            train_dataset = ChoiDataset(dataset_path +'/'+ 'training-data', word2vec)
+            dev_dataset = ChoiDataset(dataset_path +'/'+ 'val-data', word2vec)
+            test_dataset = ChoiDataset(dataset_path +'/'+ 'test-data', word2vec)
 
         train_dl = DataLoader(train_dataset, batch_size=args.bs, collate_fn=collate_fn, shuffle=True,
                               num_workers=args.num_workers)
@@ -261,7 +261,7 @@ def main(args):
                                         high_granularity=args.high_granularity)
         test_dl = DataLoader(test_dataset, batch_size=args.test_bs, collate_fn=collate_fn, shuffle=False,
                              num_workers=args.num_workers)
-        print test(model, args, 0, test_dl, logger, 0.4)
+        print (test(model, args, 0, test_dl, logger, 0.4))
 
 
 if __name__ == '__main__':

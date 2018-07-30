@@ -1,0 +1,17 @@
+One exception to this is that we're proposing that for that existing stock of contracts that they be reported to a trade repository. But that information-reporting, record-keeping obligation we think creates no risk to legal certainty of these contracts. But without exception, our view is these reforms should be prospective." GEITHNER ON FOREIGN EXCHANGE SWAPS LOOPHOLES: "The FX markets are different.
+
+-----
+
+... The thing we all need to be worried about a little bit is to make sure that those carefully designed limited exceptions for good economic reasons don't end up gutting the rest of the framework." GEITHNER ON CONVERGENCE OF BILLS ON DERIVATIVES: "I have been particularly pleased by the convergence on good policy that we have seen in the derivatives bills produced by the Senate Banking Committee, the House Agriculture Committee, and the House Financial Services Committee, and I know this committee is hard at work on its own legislation.
+
+-----
+
+There is a growing strong consensus about the nature and scope of reforms necessary to make our derivatives markets more transparent, more efficient, more fair, and more stable." GEITHNER ON NEED TO HAVE CFTC, SEC REQUIRE CLEARING: "We should employ a presumption that a derivative contract that is accepted for clearing by one or more clearinghouses, and approved by the Commodity Futures Trading Commission or Securities and Exchange Commission, must be centrally cleared by all.
+
+-----
+
+They are not really derivative in a sense and they don't present the same sort of risk and there is an elaborate framework in place already to limit settlement risk. These markets actually work quite well. We have a basic obligation to do no harm, to make sure that as we reform we don't make things worse and our judgment is because of the protection that already exists in these foreign exchange markets and because they are different from derivatives, have different risks and require different solutions, they require a different approach." GEITHNER ON EXCEPTIONS FOR NONFINANCIAL DERIVATIVES USERS: "I think there probably is going to be a good case for some carefully crafted limited exceptions for non-financial end users.
+
+-----
+
+But we should not rely exclusively on decisions by the private sector to determine the scope of the central clearing requirement. It is imperative that the CFTC and the SEC also have authority to proactively require central clearing of derivative types that are sufficiently standardized and liquid or whose economic terms are substantially the same as contracts that are centrally cleared -- regardless of whether a clearinghouse would accept the derivative type for clearing today..." "We also should require that regulators carefully police any attempts by market participants to use spurious customization to avoid central clearing."
