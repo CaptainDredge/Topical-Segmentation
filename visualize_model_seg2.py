@@ -82,10 +82,10 @@ def main(args):
 if __name__ == '__main__':
     parser = ArgumentParser()
     parser.add_argument('--test', help='Test mode? (e.g fake word2vec)', action='store_true')
-    parser.add_argument('--model', help='Model to run - will import and run', required=True)
+    parser.add_argument('--model', help='Model to run - will import and run',default='./checkpoints/best_model.t7')
     parser.add_argument('--config', help='Path to config.json', default='./config.json')
     parser.add_argument('--path', help='file containing file names to segment by model', default='./data/Dataset/test-data/')
-    parser.add_argument('--output', help='output folder', required=True)
+    parser.add_argument('--output', help='output folder', default='./output2')
     parser.add_argument('--wiki', help='use wikipedia files', action='store_true')
 
 

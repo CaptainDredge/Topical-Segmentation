@@ -27,10 +27,14 @@ def convert_csv(submission_name,path = './output/',seperator = '========',test_p
     for filename, counts in range_dict.iteritems():
         if filename != 'test_123.txt':
             print(filename)
+            print(np.array(counts))
             with open(test_path+filename,  "r+") as f:
                 raw_text = f.read()
             sentences = split_sentences(raw_text,0)
+            print("length of sen")
+            print(len(sentences))
             cumsum = np.cumsum(np.array(counts))
+            
             total_len=0
             s='1-'
 

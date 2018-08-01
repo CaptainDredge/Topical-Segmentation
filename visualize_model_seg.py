@@ -15,7 +15,7 @@ section_delimiter = "-----"
 def segment(path, model, word2vec, output_folder, wiki = False):
     
     for filename in glob.glob(path+ '*.txt'):
-        with open(files,  "r+") as f:
+        with open(filename,  "r+") as f:
             paragraph = f.read()
             sentences = [clean_paragraph(paragraph)]
 
