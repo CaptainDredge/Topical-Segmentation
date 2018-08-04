@@ -1,12 +1,5 @@
 # Topical Segmentation
 
-This repository contains code and supplementary materials which are required to train and evaluate a model as described in the paper [Text Segmentation as a Supervised Learning Task](https://arxiv.org/abs/1803.09337)
-
-## Downalod required resources
-
-dataset:
->  https://he-s3.s3.amazonaws.com/media/hackathon/ai-problem-statement-1/topical-segmentation-of-financial-news-documents-1/02c37238-9-Dataset.zip
-
 word2vec:
 >  https://drive.google.com/a/audioburst.com/uc?export=download&confirm=zrin&id=0B7XkCwpI5KDYNlNUTTlSS21pQmM
 
